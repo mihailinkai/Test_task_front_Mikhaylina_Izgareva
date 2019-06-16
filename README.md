@@ -1,4 +1,8 @@
 # Test_task_front_Mikhaylina_Izgareva
+
+https://mihailinkai.github.io/Test_task_front_Mikhaylina_Izgareva/
+
+
 Тестовое задание
 Необходимо отобразить на странице список товаров в момент загрузки страницы. Данные для каждого товара можно получить из файла product.json.
 
