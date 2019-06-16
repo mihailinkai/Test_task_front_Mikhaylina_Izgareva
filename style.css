@@ -1,0 +1,6 @@
+/*скрываем ,чтобы не залазили друг на друга*/
+
+
+.product-price_unit_pack {
+    display: none;
+}
